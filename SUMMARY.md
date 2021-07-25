@@ -39,6 +39,7 @@
 
 ## Azure
 
+* [Azure 2](azure/azure-2.md)
 * [Untitled](azure/untitled.md)
 
 ## Jenkins
