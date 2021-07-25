@@ -18,15 +18,9 @@ Currently working at [http://scs71.com/](http://scs71.com/) - SCS aspires to dev
 * Devops mindset, willing to fill the gap between development and operation.
 * Ability to quickly learn new skills to meet the need. 
 
-{% tabs %}
-{% tab title="Github" %}
+{% hint style="info" %}
 [https://github.com/cuongnd-scs](https://github.com/cuongnd-scs)
-{% endtab %}
-
-{% tab title="CV" %}
-
-{% endtab %}
-{% endtabs %}
+{% endhint %}
 
 ### Certificates
 
