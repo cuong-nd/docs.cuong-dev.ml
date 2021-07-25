@@ -1,24 +1,23 @@
 # Postgres create user and grant permistions
 
-List all user: 
+## List all user: 
 
-> ```bash
-> \du
-> ```
+```bash
+\du
+```
 
-List all schema:
+## List all schema:
 
 ```bash
 \dn
 ```
-
-Create user read\_only
+##  Create user read\_only
 
 ```bash
 create user ro_user with password 'pass_123';
 ```
 
-Grant permistion on schema
+## Grant permistion on schema
 
 ```bash
 grant usage on schema common to ro_user;
