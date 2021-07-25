@@ -14,7 +14,7 @@ $ ssh -D 2121 -N -f user@10.12.133.3
 
 2/ Setting sock proxy on filezila client:
 
-![ Setting sock proxy on filezila client](../.gitbook/assets/image%20%282%29.png)
+![ Setting sock proxy on filezila client](../.gitbook/assets/image%20%282%29%20%281%29.png)
 
 3/ Using Filezilla as normal
 
