@@ -4,7 +4,6 @@ Kubectl alias:
 
 ```text
 wget https://raw.githubusercontent.com/ahmetb/kubectl-aliases/master/.kubectl_aliases
-
 echo "source ~/.kubectl_aliases" >> .zshrc
 ```
 
