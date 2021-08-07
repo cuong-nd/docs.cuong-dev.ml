@@ -1,4 +1,4 @@
-# Kubectl tips and tricks
+# Kubectl productivity
 
 **Kubectl alias:**
 

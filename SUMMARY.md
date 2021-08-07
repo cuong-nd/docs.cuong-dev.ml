@@ -30,7 +30,7 @@
 
 ## Kubernetes <a id="k8s"></a>
 
-* [Kubectl tips and tricks](k8s/kubectl-tips-and-tricks.md)
+* [Kubectl productivity](k8s/kubectl-tips-and-tricks.md)
 * [Linkerd Cheatsheet](k8s/untitled.md)
 
 ## GCP
