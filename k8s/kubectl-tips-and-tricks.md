@@ -4,7 +4,7 @@
 
 Some of the 800 generated aliases are:
 
-```text
+```bash
 alias k='kubectl'
 alias kg='kubectl get'
 alias kgpo='kubectl get pod'
@@ -24,7 +24,7 @@ alias kgsvcslwn='watch kubectl get service --show-labels --namespace'
 
 **Install**: 
 
-```text
+```bash
 wget https://raw.githubusercontent.com/ahmetb/kubectl-aliases/master/.kubectl_aliases
 echo "source ~/.kubectl_aliases" >> .zshrc
 ```
