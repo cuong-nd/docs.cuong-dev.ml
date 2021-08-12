@@ -69,10 +69,7 @@
 
 ## Cheatsheet
 
+* [Docker](cheatsheet/docker-cheatsheet.md)
 * [Grep](cheatsheet/grep.md)
 * [Bash](cheatsheet/bash.md)
-
----
-
-* [Docker](docker-cheatsheet.md)
 
