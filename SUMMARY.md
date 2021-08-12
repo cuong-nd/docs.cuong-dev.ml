@@ -74,5 +74,5 @@
 
 ---
 
-* [Docker cheatsheet](docker-cheatsheet.md)
+* [Docker](docker-cheatsheet.md)
 
