@@ -67,3 +67,8 @@
 
 * [My website](https://cuong-dev.ml/)
 
+## Cheatsheet
+
+* [Grep](cheatsheet/grep.md)
+* [Bash](cheatsheet/bash.md)
+
